@@ -128,8 +128,8 @@ class CrearUsuarioController extends Controller
                     'from'              => "Proyecto X",
                     'text'              => "Tu codigo de activacion de ProyectoX es ".$codigoConfirmacion."\n\n",
                     'to'                => "52".$request->numero,
-                    'api_key'           => "ff1faa5e",
-                    'api_secret'        => "VtJTzGyXvaCl79Kh",
+                    'api_key'           => "consiguela de twilio",
+                    'api_secret'        => "consiguela de twilio",
                 ]);
 
 
